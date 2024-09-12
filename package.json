@@ -5,7 +5,6 @@
   "dependencies": {
     "concurrently": "^7.6.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node server",
     "server": "cd server && nodemon",
