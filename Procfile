@@ -1,1 +1,1 @@
-web: cd client && npx serve -s dist
+web: cd client && npm install && npm run client
